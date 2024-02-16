@@ -4,8 +4,6 @@ This app is a flash card–style interface. The user will see the element symbol
 
 ## Element Quiz App Interface
 <div style="text-align: center;">
-
-![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
-
+  <img src="interface.jpg" height="1000">
 </div>
-<img src="interface.jpg" height="1000">
+
