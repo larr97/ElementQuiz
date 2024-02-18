@@ -4,5 +4,3 @@ This app is a flash card–style interface. The user will see the element symbol
 
 ## Element Quiz App's Interface
 <img src="interface.jpg" height="1000">
-
-
